@@ -20,7 +20,6 @@ You can never learn everything at once. Learning is like putting together pieces
 - [1001 Networking Flashcard Set for the CompTIA A+ Core Series Exam](https://uniontestprep.com/comptia-a-core-series-exam/flashcards/1001-networking/pages/2/back)
 - [Ports Quiz Flash Cards](https://securityplus.training/flashcard/ports-quiz/#)
 
----
 
 ## Learning Resources
 
@@ -30,4 +29,3 @@ You can never learn everything at once. Learning is like putting together pieces
 
 * [Insider Threat](https://github.com/sectool/PassBox.git)
 
----
