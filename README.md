@@ -9,6 +9,9 @@ You can never learn everything at once. Learning is like putting together pieces
 ## Table of Contents
 
 - [Flash Cards](#flash-cards)
+- [Learning Resources](#learning-resources)
+- [Bug Bounty Writeups](#bug-bounty-writeups)
+- [CTFs](#ctfs)
 - [Random Stuff](#random-stuff)
 
 
@@ -17,6 +20,14 @@ You can never learn everything at once. Learning is like putting together pieces
 - [1001 Networking Flashcard Set for the CompTIA A+ Core Series Exam](https://uniontestprep.com/comptia-a-core-series-exam/flashcards/1001-networking/pages/2/back)
 - [Ports Quiz Flash Cards](https://securityplus.training/flashcard/ports-quiz/#)
 
+---
+
+## Learning Resources
+
+- [Penetration Testing Reports, publicly available](https://pentestreports.com/)
+
 ## Random Stuff
 
 * [Insider Threat](https://github.com/sectool/PassBox.git)
+
+---
