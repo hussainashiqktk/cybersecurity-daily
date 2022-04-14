@@ -12,7 +12,8 @@ You can never learn everything at once. Learning is like putting together pieces
 - [Learning Resources](#learning-resources)
 - [Bug Bounty Writeups](#bug-bounty-writeups)
 - [CTFs](#ctfs)
-- [Random Stuff](#random-stuff)
+- [Useful Articles](#useful-articles)
+- [Uncategorized-yet Stuff](#uncategorized-yet-stuff)
 
 
 ## Flash Cards
@@ -25,7 +26,10 @@ You can never learn everything at once. Learning is like putting together pieces
 
 - [Penetration Testing Reports, publicly available](https://pentestreports.com/)
 
-## Random Stuff
+## Useful Articles
+- [Cross-Site Scripting (XSS) via image rendering application](https://medium.com/@mrempy/cross-site-scripting-xss-via-image-rendering-application-f8427afe746d)
+
+## Uncategorized-yet Stuff
 
 * [Insider Threat](https://github.com/sectool/PassBox.git)
 
