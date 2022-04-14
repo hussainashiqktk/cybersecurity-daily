@@ -32,4 +32,5 @@ You can never learn everything at once. Learning is like putting together pieces
 ## Uncategorized-yet Stuff
 
 * [Insider Threat](https://github.com/sectool/PassBox.git)
+* [Billion laughs attack](https://en.wikipedia.org/wiki/Billion_laughs_attack)
 
