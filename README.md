@@ -14,6 +14,7 @@ You can never learn everything at once. Learning is like putting together pieces
 - [CTFs](#ctfs)
 - [Useful Articles](#useful-articles)
 - [Uncategorized-yet Stuff](#uncategorized-yet-stuff)
+- [Cybersecurity Tools][#cybersecurity-tools]
 
 
 ## Flash Cards
@@ -36,3 +37,9 @@ You can never learn everything at once. Learning is like putting together pieces
 * [304 Not Modified](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/304)
 * [A-Packets : Online pcap file analyzer](https://apackets.com/)
 * [Installing Nessus on Linux](https://computingforgeeks.com/install-nessus-vulnerability-scanner-on-kali-linux/)
+
+## Cybersecurity Tools
+
+* [Virus Total](https://www.virustotal.com/gui/home/upload)
+Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community
+* []()
