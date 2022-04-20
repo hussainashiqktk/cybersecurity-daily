@@ -26,6 +26,7 @@ You can never learn everything at once. Learning is like putting together pieces
 ## Learning Resources
 
 - [Penetration Testing Reports, publicly available](https://pentestreports.com/)
+- [SIEM - WAZUH](https://tryhackme.com/room/wazuhct)
 
 ## Useful Articles
 - [Cross-Site Scripting (XSS) via image rendering application](https://medium.com/@mrempy/cross-site-scripting-xss-via-image-rendering-application-f8427afe746d)
