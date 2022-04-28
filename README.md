@@ -46,4 +46,4 @@ You can never learn everything at once. Learning is like putting together pieces
 * [Virus Total](https://www.virustotal.com/gui/home/upload)
 Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community
 * [Malicious Traffic Analysis using Wireshark and Indication of Compromise (IOC)](https://www.youtube.com/watch?v=9TR6WCRwFPc)
-* [Cadera](https://github.com/mitre/caldera)
+* [Cadera](https://github.com/mitre/caldera) : Automated Adversary Emulation Platform
