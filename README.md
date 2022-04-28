@@ -40,6 +40,9 @@ You can never learn everything at once. Learning is like putting together pieces
 * [Installing Nessus on Linux](https://computingforgeeks.com/install-nessus-vulnerability-scanner-on-kali-linux/)
 * [Simulating Basic Attacks with Metasploit and Social Engineer Toolkit](https://www.youtube.com/watch?v=gKykLr59LW8)
 * [ipables](https://en.m.wikipedia.org/wiki/Iptables)
+* [Setting Home Lab](https://www.linkedin.com/posts/stefan-wa_homelab-cybersecurity-education-activity-6925057858908684288-jJLg?utm_source=linkedin_share&utm_medium=member_desktop_web) </br>
+![image](https://user-images.githubusercontent.com/74835399/165678541-e6961934-f1f1-484f-a9e9-ec0357116cfe.png)
+
 
 ## Cybersecurity Tools
 
