@@ -51,3 +51,6 @@ You can never learn everything at once. Learning is like putting together pieces
 Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community
 * [Malicious Traffic Analysis using Wireshark and Indication of Compromise (IOC)](https://www.youtube.com/watch?v=9TR6WCRwFPc)
 * [Cadera](https://github.com/mitre/caldera) : Automated Adversary Emulation Platform
+
+## Computer Networking
+* [Subnetting Mastery - Playlist](https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)
