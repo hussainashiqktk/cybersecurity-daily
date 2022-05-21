@@ -55,3 +55,4 @@ Analyze suspicious files, domains, IPs and URLs to detect malware and other brea
 ## Computer Networking
 * [Subnetting Mastery - Playlist](https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)
 * [Practic Subnetting IPv4](https://subnetipv4.com/)
+* [Network traffic analysis for IR: SSH protocol with Wireshark](https://resources.infosecinstitute.com/topic/network-traffic-analysis-for-ir-ssh-protocol-with-wireshark/)
