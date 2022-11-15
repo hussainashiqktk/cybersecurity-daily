@@ -31,6 +31,7 @@ You can never learn everything at once. Learning is like putting together pieces
 
 ## Useful Articles
 - [Cross-Site Scripting (XSS) via image rendering application](https://medium.com/@mrempy/cross-site-scripting-xss-via-image-rendering-application-f8427afe746d)
+- [URL Obfuscation With Decimal IP Address](https://intarna.com/2022/11/15/url_obfuscation-with-decimal-ip-address/)
 
 ## Uncategorized-yet Stuff
 
