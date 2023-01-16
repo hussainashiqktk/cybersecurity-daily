@@ -28,6 +28,7 @@ You can never learn everything at once. Learning is like putting together pieces
 - [Penetration Testing Reports, publicly available](https://pentestreports.com/)
 - [SIEM - WAZUH](https://tryhackme.com/room/wazuhct)
 - [Intro to LAN](https://tryhackme.com/room/introtolan)
+- [CyberSecurity Books](https://drive.google.com/drive/u/0/folders/1DqvFPxC3ROZgRndVYsfpX7C7Nqx1CnmL)
 
 ## Useful Articles
 - [Cross-Site Scripting (XSS) via image rendering application](https://medium.com/@mrempy/cross-site-scripting-xss-via-image-rendering-application-f8427afe746d)
