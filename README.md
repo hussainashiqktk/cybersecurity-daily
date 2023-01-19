@@ -8,13 +8,15 @@ You can never learn everything at once. Learning is like putting together pieces
 
 ## Table of Contents
 
-- [Flash Cards](#flash-cards)
-- [Learning Resources](#learning-resources)
-- [Bug Bounty Writeups](#bug-bounty-writeups)
-- [CTFs](#ctfs)
-- [Useful Articles](#useful-articles)
-- [Uncategorized-yet Stuff](#uncategorized-yet-stuff)
-- [Cybersecurity Tools][#cybersecurity-tools]
+- [Learning Cyber Security Daily](#learning-cyber-security-daily)
+  - [Table of Contents](#table-of-contents)
+  - [Flash Cards](#flash-cards)
+  - [Learning Resources](#learning-resources)
+  - [Useful Articles](#useful-articles)
+  - [Uncategorized-yet Stuff](#uncategorized-yet-stuff)
+  - [Cybersecurity Tools](#cybersecurity-tools)
+  - [Computer Networking](#computer-networking)
+  - [SOC - Security Operations Centre](#soc---security-operations-centre)
 
 
 ## Flash Cards
@@ -45,6 +47,8 @@ You can never learn everything at once. Learning is like putting together pieces
 * [ipables](https://en.m.wikipedia.org/wiki/Iptables)
 * [Setting Home Lab](https://www.linkedin.com/posts/stefan-wa_homelab-cybersecurity-education-activity-6925057858908684288-jJLg?utm_source=linkedin_share&utm_medium=member_desktop_web) </br>
 ![image](https://user-images.githubusercontent.com/74835399/165678541-e6961934-f1f1-484f-a9e9-ec0357116cfe.png)
+* [ChatGPT for Offensive and Defensive Cyber
+](https://securityblueteam.medium.com/chatgpt-for-offensive-and-defensive-cyber-f954f51aa79f)
 
 
 ## Cybersecurity Tools
