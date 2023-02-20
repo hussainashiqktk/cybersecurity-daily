@@ -67,5 +67,5 @@ Analyze suspicious files, domains, IPs and URLs to detect malware and other brea
 ## SOC - Security Operations Centre
 
 * [Intro to SOC](https://app.letsdefend.io/training/lesson_detail/soc-types-and-roles)
-* []()
+* [Free SIEM Training](https://twitter.com/hetmehtaa/status/1623923457330397186?t=8oY27JX1AlGBoMK6SgEiHw&s=08)
 * []()
