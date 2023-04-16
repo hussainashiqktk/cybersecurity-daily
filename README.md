@@ -49,6 +49,7 @@ You can never learn everything at once. Learning is like putting together pieces
 ![image](https://user-images.githubusercontent.com/74835399/165678541-e6961934-f1f1-484f-a9e9-ec0357116cfe.png)
 * [ChatGPT for Offensive and Defensive Cyber
 ](https://securityblueteam.medium.com/chatgpt-for-offensive-and-defensive-cyber-f954f51aa79f)
+*[Offensive Security Tool: dontgo403](https://www.blackhatethicalhacking.com/tools/dontgo403/)
 
 
 ## Cybersecurity Tools
